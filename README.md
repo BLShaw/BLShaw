@@ -1,16 +1,32 @@
-## Hi there 👋
+# ADEEL MALIK
+**AI/ML Engineer | Full-Stack AI Engineering**  
 
-<!--
-**BLShaw/BLShaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design, build, and deploy intelligent systems that turn ideas into scalable, real-world applications. Blending AI research, software engineering, and full-stack development, I focus on creating solutions that are not only accurate, but also production-ready and impactful.  
 
-Here are some ideas to get you started:
+## Skills  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages  
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python&theme=dark" title="Python" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp&theme=dark" title="C++" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark" title="Java" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=rust&theme=dark" title="Rust" height="40">  
+
+### AI/ML & Data  
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch&theme=dark" title="PyTorch" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow&theme=dark" title="TensorFlow" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn&theme=dark" title="Scikit-learn" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=anaconda&theme=dark" title="Anaconda" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&theme=dark" title="MySQL" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=googlecolab&theme=dark" title="Google Colab" height="40">  
+
+### MLOps  
+<img src="https://go-skill-icons.vercel.app/api/icons?i=docker&theme=dark" title="Docker" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=kubernetes&theme=dark" title="Kubernetes" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark" title="Git" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=github&theme=dark" title="GitHub" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=gitlab&theme=dark" title="GitLab" height="40">  
+
+### Tools  
+<img src="https://go-skill-icons.vercel.app/api/icons?i=linux&theme=dark" title="Linux" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=arch&theme=dark" title="Arch Linux" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=windows&theme=dark" title="Windows" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode&theme=dark" title="VS Code" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=sublime&theme=dark" title="Sublime Text" height="40">  
+
+### Visualization  
+<img src="https://go-skill-icons.vercel.app/api/icons?i=tableau&theme=dark" title="Tableau" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=pbi&theme=dark" title="Power BI" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib&theme=dark" title="Matplotlib" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=seaborn&theme=dark" title="Seaborn" height="40">  
+
+### Others  
+<img src="https://go-skill-icons.vercel.app/api/icons?i=ps&theme=dark" title="Adobe Photoshop" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=powerpoint&theme=dark" title="PowerPoint" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=word&theme=dark" title="Word" height="40">  
+
+## What I’m About  
+- Turning cutting-edge AI research into **practical applications**  
+- Building **end-to-end AI systems** (data → models → APIs → deployment)  
+- Open to **collaborations, research, and anything AI**  
+
+## Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/adeel-malik-bls)     [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=mail&logoColor=white)](mailto:adeel.ai@protonmail.com)  
