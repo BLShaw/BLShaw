@@ -23,6 +23,18 @@ I design, build, and deploy intelligent systems that turn ideas into scalable, r
 ### Others  
 <img src="https://go-skill-icons.vercel.app/api/icons?i=ps&theme=dark" title="Adobe Photoshop" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=powerpoint&theme=dark" title="PowerPoint" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=word&theme=dark" title="Word" height="40">  
 
+## Certifications  
+
+<a href="https://badgr.com/public/assertions/aOv4ZaC5QQiojMOMSrM_HQ" target="_blank">
+  <img src="certs/ai-explorer.png" alt="AI Explorer Certification" title="AI Explorer Certification" height="120">
+</a>
+&nbsp;&nbsp;
+<a href="https://badgr.com/public/assertions/OD2I2rwdQJ2uBOkwxONswQ" target="_blank">
+  <img src="certs/ai-associate.png" alt="AI Associate Certification" title="AI Associate Certification" height="120">
+</a>
+
+
+
 ## What I’m About  
 - Turning cutting-edge AI research into **practical applications**  
 - Building **end-to-end AI systems** (data → models → APIs → deployment)  
