@@ -32,8 +32,10 @@ I design, build, and deploy intelligent systems that turn ideas into scalable, r
 <a href="https://badgr.com/public/assertions/OD2I2rwdQJ2uBOkwxONswQ" target="_blank">
   <img src="certs/ai-associate.png" alt="AI Associate Certification" title="AI Associate Certification" height="120">
 </a>
-
-
+&nbsp;&nbsp;
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=16CA2D31F75446E8B54922387AE1FFB0D20A407EDA3F0DC4E9AB853891DA97A4" target="_blank">
+  <img src="certs/OCI25GAIOCP.png" alt="Oracle OCI Generative AI 2025 Certified" title="Oracle OCI Generative AI 2025 Certified" height="120">
+</a>
 
 ## What I’m About  
 - Turning cutting-edge AI research into **practical applications**  
