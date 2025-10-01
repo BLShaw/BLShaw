@@ -1,5 +1,5 @@
 # ADEEL MALIK
-**AI/ML Engineer | Full-Stack AI Engineering**  
+**Full-Stack AI/ML Engineering**  
 
 I design, build, and deploy intelligent systems that turn ideas into scalable, real-world applications. Blending AI research, software engineering, and full-stack development, I focus on creating solutions that are not only accurate, but also production-ready and impactful.  
 
