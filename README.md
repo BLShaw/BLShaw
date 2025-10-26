@@ -45,6 +45,3 @@ I design, build, and deploy intelligent systems that turn ideas into scalable, r
 - Turning cutting-edge AI research into **practical applications**  
 - Building **end-to-end AI systems** (data → models → APIs → deployment)  
 - Open to **collaborations, research, and anything AI**  
-
-## Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeelxai)     [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=mail&logoColor=white)](mailto:adeel.ai@protonmail.com)  
