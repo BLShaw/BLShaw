@@ -1,5 +1,5 @@
 # ADEEL MALIK
-**Full-Stack AI/ML Engineering**  
+**Full-Stack AI/ML Engineering | Generative AI | Vector Search | Computer Vision | NLP | MLOps**  
 
 I design, build, and deploy intelligent systems that turn ideas into scalable, real-world applications. Blending AI research, software engineering, and full-stack development, I focus on creating solutions that are not only accurate, but also production-ready and impactful.  
 
