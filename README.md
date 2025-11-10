@@ -3,6 +3,11 @@
 
 I design, build, and deploy intelligent systems that turn ideas into scalable, real-world applications. Blending AI research, software engineering, and full-stack development, I focus on creating solutions that are not only accurate, but also production-ready and impactful.  
 
+## What I’m About  
+- Turning cutting-edge AI research into **practical applications**  
+- Building **end-to-end AI systems** (data → models → APIs → deployment)  
+- Open to **collaborations, research, and anything AI**  
+
 ## Skills  
 
 ### Languages  
@@ -44,8 +49,3 @@ I design, build, and deploy intelligent systems that turn ideas into scalable, r
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=B46FD44A484B1FBA5407649A3AA6873819589A007AA5AF4D4D57A41E8273CE1B" target="_blank">
   <img src="certs/DB25AIOCP.png" alt="Oracle AI Vector Search Certified Professional" title="Oracle AI Vector Search Certified Professional" height="120">
 </a>
-
-## What I’m About  
-- Turning cutting-edge AI research into **practical applications**  
-- Building **end-to-end AI systems** (data → models → APIs → deployment)  
-- Open to **collaborations, research, and anything AI**  
