@@ -1,34 +1,43 @@
 # ADEEL MALIK
-**Full-Stack AI/ML Engineering | Generative AI | Vector Search | Computer Vision | NLP | MLOps**  
+**AI/ML Engineer | Edge AI & Computer Vision | Autonomous Systems | Generative AI & RAG**
 
-I design, build, and deploy intelligent systems that turn ideas into scalable, real-world applications. Blending AI research, software engineering, and full-stack development, I focus on creating solutions that are not only accurate, but also production-ready and impactful.  
+I design, build, and deploy intelligent systems tailored for defense, aviation, and autonomous robotics. Blending AI research, software engineering, and hardware-accelerated deployment, I focus on creating scalable, real-world applications that operate reliably from the cloud to the edge.
 
-## What I’m About  
-- Turning cutting-edge AI research into **practical applications**  
-- Building **end-to-end AI systems** (data → models → APIs → deployment)  
-- Open to **collaborations, research, and anything AI**  
+## What I’m About
+- Developing **Edge AI & Computer Vision** pipelines (NVIDIA Jetson, Raspberry Pi)
+- Building **fully offline RAG architectures** and generative AI workflows
+- Researching **sensor fusion, target tracking**, and unsupervised multimodal learning
+- Engineering **end-to-end AI systems** (Data → Models → APIs → Hardware Deployment)
 
-## Skills  
+## Featured Work
+- **[HawkEye](https://github.com/BLShaw/HawkEye):** Edge-AI computer vision platform for real-time drone detection and targeting.
+- **[MANTIS](https://github.com/BLShaw/MANTIS):** Fully offline Retrieval-Augmented Generation (RAG) system for technical aviation manuals.
+- **[CDZ-TKBA-COIL100](https://github.com/BLShaw/CDZ-TKBA-COIL100):** Unsupervised multimodal decoupled architecture for autonomous real-world agents.
 
-### Languages  
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python&theme=dark" title="Python" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp&theme=dark" title="C++" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark" title="Java" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=rust&theme=dark" title="Rust" height="40">  
+## Skills
 
-### AI/ML & Data  
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch&theme=dark" title="PyTorch" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow&theme=dark" title="TensorFlow" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn&theme=dark" title="Scikit-learn" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=anaconda&theme=dark" title="Anaconda" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&theme=dark" title="MySQL" height="40"> 
+### Languages
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python&theme=dark" title="Python" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp&theme=dark" title="C++" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark" title="Java" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=rust&theme=dark" title="Rust" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=bash&theme=dark" title="Bash Scripting" height="40">
 
-### MLOps  
-<img src="https://go-skill-icons.vercel.app/api/icons?i=docker&theme=dark" title="Docker" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=kubernetes&theme=dark" title="Kubernetes" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark" title="Git" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=github&theme=dark" title="GitHub" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=gitlab&theme=dark" title="GitLab" height="40">  
+### AI, ML & Computer Vision
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch&theme=dark" title="PyTorch" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow&theme=dark" title="TensorFlow" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn&theme=dark" title="Scikit-learn" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=opencv&theme=dark" title="OpenCV" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas&theme=dark" title="Pandas" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=anaconda&theme=dark" title="Anaconda" height="40">
 
-### Tools  
-<img src="https://go-skill-icons.vercel.app/api/icons?i=linux&theme=dark" title="Linux" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=arch&theme=dark" title="Arch Linux" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=windows&theme=dark" title="Windows" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode&theme=dark" title="VS Code" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=sublime&theme=dark" title="Sublime Text" height="40">  <img src="https://go-skill-icons.vercel.app/api/icons?i=googlecolab&theme=dark" title="Google Colab" height="40">  
+### Backend, APIs & Databases
+<img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi&theme=dark" title="FastAPI" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&theme=dark" title="MySQL" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres&theme=dark" title="PostgreSQL" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=gcp&theme=dark" title="Google Cloud Platform" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=aws&theme=dark" title="AWS" height="40">
 
-### Visualization  
-<img src="https://go-skill-icons.vercel.app/api/icons?i=tableau&theme=dark" title="Tableau" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=pbi&theme=dark" title="Power BI" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib&theme=dark" title="Matplotlib" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=seaborn&theme=dark" title="Seaborn" height="40">  
+### Edge AI, MLOps & DevOps
+<img src="https://go-skill-icons.vercel.app/api/icons?i=docker&theme=dark" title="Docker" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=kubernetes&theme=dark" title="Kubernetes" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions&theme=dark" title="GitHub Actions" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark" title="Git" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=github&theme=dark" title="GitHub" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=gitlab&theme=dark" title="GitLab" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=raspberrypi&theme=dark" title="Raspberry Pi" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=arduino&theme=dark" title="Arduino" height="40">
 
-### Others  
-<img src="https://go-skill-icons.vercel.app/api/icons?i=ps&theme=dark" title="Adobe Photoshop" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=powerpoint&theme=dark" title="PowerPoint" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=word&theme=dark" title="Word" height="40">  
+### OS & Development Tools
+<img src="https://go-skill-icons.vercel.app/api/icons?i=linux&theme=dark" title="Linux" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu&theme=dark" title="Ubuntu" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=arch&theme=dark" title="Arch Linux" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=windows&theme=dark" title="Windows" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode&theme=dark" title="VS Code" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=postman&theme=dark" title="Postman" height="40">
 
-## Certifications  
+### Visualization
+<img src="https://go-skill-icons.vercel.app/api/icons?i=tableau&theme=dark" title="Tableau" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=pbi&theme=dark" title="Power BI" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib&theme=dark" title="Matplotlib" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=seaborn&theme=dark" title="Seaborn" height="40">
+
+### Others
+<img src="https://go-skill-icons.vercel.app/api/icons?i=ps&theme=dark" title="Adobe Photoshop" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=powerpoint&theme=dark" title="PowerPoint" height="40"> <img src="https://go-skill-icons.vercel.app/api/icons?i=word&theme=dark" title="Word" height="40">
+
+## Certifications
 
 <a href="https://badgr.com/public/assertions/aOv4ZaC5QQiojMOMSrM_HQ" target="_blank">
   <img src="certs/ai-explorer.png" alt="AI Explorer Certification" title="AI Explorer Certification" height="120">
